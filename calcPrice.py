@@ -17,6 +17,6 @@ power_used = power * time
 init_price = power_used * prov_price
 
 #the price the user will pay
-user_price = rount(init_price * 1.2, 2)
+user_price = round(init_price * 1.2, 2)
 
 print("Price :: %.2f" % user_price)
