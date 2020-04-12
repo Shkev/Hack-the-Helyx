@@ -1,0 +1,459 @@
+<!-- wp:cover {"url":"https://electrishare.files.wordpress.com/2020/04/charging-1.mp4","id":31,"dimRatio":10,"backgroundType":"video","align":"full"} -->
+<div class="wp-block-cover alignfull has-background-dim-10 has-background-dim"><video class="wp-block-cover__video-background" autoplay muted loop src="https://electrishare.files.wordpress.com/2020/04/charging-1.mp4"></video><div class="wp-block-cover__inner-container"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":8,"column1DesktopOffset":2,"column1TabletSpan":8,"column1MobileSpan":4,"column2DesktopOffset":7,"className":"column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:heading {"align":"center","level":3,"textColor":"background"} -->
+<h3 class="has-background-color has-text-color has-text-align-center">Find an electric vehicle charger near you</h3>
+<!-- /wp:heading --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Join a network of electric vehicle users to find and use chargers anywhere in the United States. Whether you need a recharge for a long road trip or just need a fast charge while you're out running errands, ElectriShare is the perfect way to find a charger in any neighborhood. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"align":"center"} -->
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"customBackgroundColor":"#21b8d0"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="http://learn.wordpress.com" title="learn.wordpress.com" style="background-color:#21b8d0">Join now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"backgroundColor":"background","align":"full"} -->
+<div class="wp-block-group alignfull has-background-background-color has-background"><div class="wp-block-group__inner-container"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":8,"column1DesktopOffset":2,"column1TabletSpan":8,"column1MobileSpan":4,"column2DesktopOffset":5,"className":"column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4,"customTextColor":"#21b8d0"} -->
+<h4 class="has-text-color" style="color:#21b8d0">Why choose ElectriShare</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"justify"} -->
+<p class="has-text-align-justify">ElectriShare offers a convenient, comprehensive map for you to locate electric vehicle chargers near you. If you own a charger, then this is the perfect way to make a passive income by registering it on our website. Users will then be able to see the provider's charger type, pricing, and rating on our map before choosing which charger to go to. With a simple user interface and easy, secure payments between the user and provider, you can get started in a matter of minutes. Sign up today and you'll never have to worry about looking for an electric vehicle charging station again.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
+
+<!-- wp:pullquote {"align":"wide"} -->
+<figure class="wp-block-pullquote alignwide"><blockquote><p><em>“We will not stop until every car on the road is electric.”</em></p><cite>- Elon Musk, co-founder and CEO of tesla</cite></blockquote></figure>
+<!-- /wp:pullquote --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns {"verticalAlignment":"top","align":"wide"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:jetpack/tiled-gallery {"align":"wide","ids":[143]} -->
+<div class="wp-block-jetpack-tiled-gallery alignwide is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" data-height="490" data-id="143" data-link="https://electrishare.org/new-project-6/" data-url="https://electrishare.files.wordpress.com/2020/04/new-project-6.png" data-width="700" src="https://electrishare.files.wordpress.com/2020/04/new-project-6.png"/></figure></div></div></div></div>
+<!-- /wp:jetpack/tiled-gallery -->
+
+<!-- wp:heading {"align":"center","level":4,"customTextColor":"#21b8d0"} -->
+<h4 class="has-text-color has-text-align-center" style="color:#21b8d0">Sustainability</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Not only are electric vehicles cheaper to run and maintain, but they also produce less air and noise pollution, use more renewable energy sources, and are made with eco-friendly materials. Time after time, research has shown that&nbsp;electric&nbsp;cars are undoubtedly better for the&nbsp;environment.&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:jetpack/tiled-gallery {"align":"wide","ids":[132]} -->
+<div class="wp-block-jetpack-tiled-gallery alignwide is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img data-height="490" data-id="132" data-link="https://electrishare.org/evv/" data-url="https://electrishare.files.wordpress.com/2020/04/evv.jpg" data-width="700" src="https://electrishare.files.wordpress.com/2020/04/evv.jpg"/></figure></div></div></div></div>
+<!-- /wp:jetpack/tiled-gallery -->
+
+<!-- wp:heading {"align":"center","level":4,"customTextColor":"#21b8d0"} -->
+<h4 class="has-text-color has-text-align-center" style="color:#21b8d0">Charging Stations</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We are only the start of the clean energy era right now. The global electric vehicle charging system market size was valued at $3.18 billion in 2018 and is projected to reach $66.27 billion by 2026, resulting in a CAGR of 45.6% from 2019 to 2026. Join us and get ahead by registering your charging station with ElectriShare. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:jetpack/tiled-gallery {"ids":[139]} -->
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" data-height="490" data-id="139" data-link="https://electrishare.org/new-project-5/" data-url="https://electrishare.files.wordpress.com/2020/04/new-project-5.png" data-width="700" src="https://electrishare.files.wordpress.com/2020/04/new-project-5.png"/></figure></div></div></div></div>
+<!-- /wp:jetpack/tiled-gallery -->
+
+<!-- wp:heading {"align":"center","level":4,"customTextColor":"#21b8d0"} -->
+<h4 class="has-text-color has-text-align-center" style="color:#21b8d0">Social Responsibility</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ElectriShare is strongly committed to giving back to the sustainability movement. Because of this, 10% of our profits will be donated to 350, an international movement of ordinary people working to end the age of fossil fuels and build a world of community-led renewable energy for all. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:coblocks/dynamic-separator {"className":"is-style-line"} -->
+<hr class="wp-block-coblocks-dynamic-separator is-style-line" style="height:50px"/>
+<!-- /wp:coblocks/dynamic-separator -->
+
+<!-- wp:jetpack/tiled-gallery {"align":"wide","ids":[266,116,287]} -->
+<div class="wp-block-jetpack-tiled-gallery alignwide is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" data-height="450" data-id="266" data-link="https://electrishare.org/untitled-design-copy-1/" data-url="https://electrishare.files.wordpress.com/2020/04/untitled-design-copy-1.png" data-width="1200" src="https://electrishare.files.wordpress.com/2020/04/untitled-design-copy-1.png"/></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" data-height="1062" data-id="116" data-link="https://electrishare.org/new-project-3/" data-url="https://electrishare.files.wordpress.com/2020/04/new-project-3.png" data-width="1264" src="https://electrishare.files.wordpress.com/2020/04/new-project-3.png"/></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="" data-height="1580" data-id="287" data-link="https://electrishare.org/blog/iphon1/" data-url="https://electrishare.files.wordpress.com/2020/04/iphon1.png" data-width="777" src="https://electrishare.files.wordpress.com/2020/04/iphon1.png"/></figure></div></div></div></div>
+<!-- /wp:jetpack/tiled-gallery -->
+
+<!-- wp:paragraph {"align":"center","customFontSize":16} -->
+<p style="font-size:16px" class="has-text-align-center"><em>Click on the images to zoom in</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"backgroundColor":"foreground-dark","align":"full"} -->
+<div class="wp-block-group alignfull has-foreground-dark-background-color has-background"><div class="wp-block-group__inner-container"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":3,"column1DesktopOffset":2,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":5,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopOffset":3,"className":"column1-desktop-grid__span-3 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-3 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:paragraph {"align":"left","fontSize":"huge"} -->
+<p class="has-text-align-left has-huge-font-size">Sign up for monthly updates on how we're improving our map</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:jetpack/subscriptions -->
+<div class="wp-block-jetpack-subscriptions">[jetpack_subscription_form show_only_email_and_button="true" custom_background_button_color="undefined" custom_text_button_color="undefined" submit_button_text="Subscribe" submit_button_classes="undefined" show_subscribers_total="false" ]</div>
+<!-- /wp:jetpack/subscriptions --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full"} -->
+<div class="wp-block-group alignfull"><div class="wp-block-group__inner-container"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":4,"column1DesktopOffset":1,"column1TabletSpan":3,"column1MobileSpan":4,"column2DesktopSpan":6,"column2TabletSpan":5,"column2MobileSpan":4,"column3DesktopOffset":3,"column3TabletOffset":1,"className":"column1-desktop-grid__span-4 column1-desktop-grid__start-2 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-3 column1-tablet-grid__row-1 column2-tablet-grid__span-5 column2-tablet-grid__start-4 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-4 column1-desktop-grid__start-2 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-3 column1-tablet-grid__row-1 column2-tablet-grid__span-5 column2-tablet-grid__start-4 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:jetpack/tiled-gallery {"ids":[263]} -->
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img data-height="625" data-id="263" data-link="https://electrishare.org/about/untitled-design-3/" data-url="https://electrishare.files.wordpress.com/2020/04/untitled-design-3.png" data-width="723" src="https://electrishare.files.wordpress.com/2020/04/untitled-design-3.png"/></figure></div></div></div></div>
+<!-- /wp:jetpack/tiled-gallery -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"customTextColor":"#21b8d0"} -->
+<h2 class="has-text-color" style="color:#21b8d0">Our Mission Statement</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Electrishare aims to create an accessible, convenient network of user-provided and public electric vehicle charging stations. We look for the best charging stations near you so that you don't have to worry about where your next charge is going to be. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"align":"left","customTextColor":"#21b8d0"} -->
+<h2 class="has-text-color has-text-align-left" style="color:#21b8d0">How it works</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ElectriShare's map is made from our user-generated database of chargers in addition to public chargers that are available. The price for user-provided charging stations is determined by our algorithm that accounts for the time spent charging, the power output of the charger, and the additional electric bill ($/kWh) the provider has to pay. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"></div></div>
+<!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":66.66} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:list {"ordered":true} -->
+<ol><li>Fill out your information to register for an account as a new user!</li><li>Register your electric vehicle charger on our website (optional).</li><li>Go to our map to look for an electric vehicle charger near you. You can filter by city, price, and ratings.</li><li>Schedule a time to use the charger and confirm the payment.</li><li>You're all done! Leave a rating and all the details will show up on your charging history!</li></ol>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":34} -->
+<div class="wp-block-column" style="flex-basis:34%"><!-- wp:image {"id":279,"sizeSlug":"large","className":"is-style-default"} -->
+<figure class="wp-block-image size-large is-style-default"><img src="https://electrishare.files.wordpress.com/2020/04/tech-1.jpg?w=795" alt="" class="wp-image-279"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Don't hesitate to reach out with the contact information below, or send a message using the form. We'll respond as soon as possible. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":32,"className":"desktop-only"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","className":"has-2-columns"} -->
+<div class="wp-block-columns alignwide has-2-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"align":"left"} -->
+<h2 class="has-text-align-left">Get in Touch</h2>
+<!-- /wp:heading -->
+
+<!-- wp:jetpack/contact-info -->
+<div class="wp-block-jetpack-contact-info"><!-- wp:jetpack/address {"address":"104 Grand Avenue","city":"Los Angeles","region":"California","postal":"10100","country":"USA","linkToGoogleMaps":true} -->
+<div class="wp-block-jetpack-address"><a href="https://www.google.com/maps/search/104+Grand Avenue,+Los Angeles,+California,+10100+USA" target="_blank" rel="noopener noreferrer" title="Open address in Google Maps"><div class="jetpack-address__address jetpack-address__address1">104 Grand Avenue</div><div><span class="jetpack-address__city">Los Angeles</span>, <span class="jetpack-address__region">California</span> <span class="jetpack-address__postal">10100</span></div><div class="jetpack-address__country">USA</div></a></div>
+<!-- /wp:jetpack/address -->
+
+<!-- wp:jetpack/email {"email":"customerservice@electrishare.com"} -->
+<div class="wp-block-jetpack-email"><a href="mailto:customerservice@electrishare.com">customerservice@electrishare.com</a></div>
+<!-- /wp:jetpack/email -->
+
+<!-- wp:jetpack/phone {"phone":"(123) 456-7890"} -->
+<div class="wp-block-jetpack-phone"><a href="tel:1234567890">(123) 456-7890</a></div>
+<!-- /wp:jetpack/phone --></div>
+<!-- /wp:jetpack/contact-info -->
+
+<!-- wp:social-links -->
+<ul class="wp-block-social-links"><!-- wp:social-link {"service":"facebook"} /-->
+
+<!-- wp:social-link {"service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"instagram.com","service":"instagram"} /-->
+
+<!-- wp:social-link {"service":"linkedin"} /-->
+
+<!-- wp:social-link {"service":"youtube"} /-->
+
+<!-- wp:social-link {"service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"facebook.com","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"twitter.com","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"wordpress.com","service":"wordpress"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"align":"left"} -->
+<h2 class="has-text-align-left">Send Us a Message</h2>
+<!-- /wp:heading -->
+
+<!-- wp:jetpack/contact-form -->
+<!-- wp:jetpack/field-name {"required":true} /-->
+
+<!-- wp:jetpack/field-email {"label":"Email","required":true} /-->
+
+<!-- wp:jetpack/field-url /-->
+
+<!-- wp:jetpack/field-textarea {"required":true} /-->
+<!-- /wp:jetpack/contact-form --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:jetpack/map {"align":"full","points":[{"placeTitle":"Los Angeles","title":"Los Angeles","caption":"Los Angeles, California, United States","id":"place.7397503093427640","coordinates":{"longitude":-118.2439,"latitude":34.0544}}],"zoom":10.824983395174435,"mapCenter":{"lng":-118.2439,"lat":34.0544}} -->
+<div class="wp-block-jetpack-map alignfull" data-map-style="default" data-map-details="true" data-points="[{&quot;placeTitle&quot;:&quot;Los Angeles&quot;,&quot;title&quot;:&quot;Los Angeles&quot;,&quot;caption&quot;:&quot;Los Angeles, California, United States&quot;,&quot;id&quot;:&quot;place.7397503093427640&quot;,&quot;coordinates&quot;:{&quot;longitude&quot;:-118.2439,&quot;latitude&quot;:34.0544}}]" data-zoom="10.824983395174435" data-map-center="{&quot;lng&quot;:-118.2439,&quot;lat&quot;:34.0544}" data-marker-color="red" data-show-fullscreen-button="true"><ul><li><a href="https://www.google.com/maps/search/?api=1&amp;query=34.0544,-118.2439">Los Angeles</a></li></ul></div>
+<!-- /wp:jetpack/map -->
+
+<!-- wp:search {"label":"Enter your Zip Code","placeholder":"Search for Chargers...","buttonText":"Go!"} /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">These are all of our current registered charger locations that users can use to charge their electric vehicles. Go to the Map page for more details.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"align":"full"} -->
+<div class="wp-block-group alignfull"><div class="wp-block-group__inner-container"><!-- wp:heading {"align":"center","level":4} -->
+<h4 class="has-text-align-center">Locations</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
+<p><strong>Los Angeles, CA, 90036<br></strong><em>Level </em>1</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p><strong>Portland, OR, 97035<br></strong><em>Level 2</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
+<p><strong>Las Vegas, NV, 88901<br></strong><em>Level 2</em></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
+<p><strong>San Diego, CA, 92130<br></strong><em>Level 2</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
+<p><strong>Austin, TX, 78701<br></strong><em>Level </em>3</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
+<p><strong>Pasadena, CA, 91001</strong><br><em>Level 2</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full"} -->
+<div class="wp-block-group alignfull"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
+<p><strong>Seattle, WA, 98101<br></strong><em>Level 3</em><br></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
+<p><strong>New York City, NY</strong>, <strong>10001</strong><br><em>Level 1<br></em></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
+<p><strong>Boston, MA, 02101</strong><br><em>Level 2<br></em></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2>New Users</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2>Sign In</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:jetpack/contact-form {"subject":"ElectriShare","to":"jolenelee122@gmail.com","submitButtonText":"Sign Up","backgroundButtonColor":"primary","submitButtonClasses":"wp-block-button__link has-background has-primary-background-color","hasFormSettingsSet":"yes"} -->
+<!-- wp:jetpack/field-name {"label":"Full Name"} /-->
+
+<!-- wp:jetpack/field-text {"label":"Username"} /-->
+
+<!-- wp:jetpack/field-email /-->
+
+<!-- wp:jetpack/field-text {"label":"Password"} /-->
+
+<!-- wp:jetpack/field-text {"label":"Car Model"} /-->
+
+<!-- wp:jetpack/field-checkbox {"label":"I agree to the terms and conditions and have read the data use policy.","required":true} /-->
+<!-- /wp:jetpack/contact-form --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:jetpack/contact-form {"to":"jolenelee122@gmail.com","submitButtonText":"Sign in","hasFormSettingsSet":"yes"} -->
+<!-- wp:jetpack/field-name {"label":"Email or Username"} /-->
+
+<!-- wp:jetpack/field-email {"label":"Password"} /-->
+<!-- /wp:jetpack/contact-form --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"align":"left","id":156,"width":509,"height":289,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://electrishare.files.wordpress.com/2020/04/charge.gif?w=781" alt="" class="wp-image-156" width="509" height="289"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:jetpack/event-countdown {"eventDate":"2020-04-12T22:00:00"} -->
+<div class="wp-block-jetpack-event-countdown"><div class="event-countdown__date">2020-04-12T22:00:00</div><div class="event-countdown__counter"><p><strong class="event-countdown__day">&nbsp;</strong> days</p><p><span><strong class="event-countdown__hour">&nbsp;</strong> hours</span><span><strong class="event-countdown__minute">&nbsp;</strong> minutes</span><span><strong class="event-countdown__second">&nbsp;</strong> seconds</span></p><p>until</p></div><div class="event-countdown__event-title"><p>your car is finished charging</p></div></div>
+<!-- /wp:jetpack/event-countdown -->
+
+<!-- wp:coblocks/dynamic-separator {"height":100,"className":"is-style-line"} -->
+<hr class="wp-block-coblocks-dynamic-separator is-style-line" style="height:100px"/>
+<!-- /wp:coblocks/dynamic-separator -->
+
+<!-- wp:heading {"align":"left"} -->
+<h2 class="has-text-align-left">Charging History</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"className":"is-style-stripes"} -->
+<figure class="wp-block-table is-style-stripes"><table><thead><tr><th>Date</th><th>Location</th><th>Charger Type</th><th>Rating</th><th>Time Spent</th><th>Cost</th></tr></thead><tbody><tr><td>4/12/20</td><td>Los Angeles, CA</td><td>Level 1</td><td><img src="https://clipartmag.com/images/5-star-rating-clipart-45.png" alt="5 Star Rating Clipart | Free download on ClipArtMag" style="width:100px;"></td><td>00:30:05</td><td>$0.50</td></tr><tr><td>4/10/20</td><td>San Diego, CA</td><td>Level 2</td><td><img src="https://purpleduck.cz/wp-content/uploads/2018/10/4-out-of-5-stars-png-2.png" alt="INSTALASH – Sada s magnetickou tužkou na oči a magnetickými řasami ..." style="width:100px;"></td><td>01:02:58</td><td>$1.50</td></tr><tr><td>4/8/20</td><td>Portland, OR</td><td>Level 2</td><td><img src="https://clipartmag.com/images/5-star-rating-clipart-45.png" alt="5 Star Rating Clipart | Free download on ClipArtMag" style="width:100px;"></td><td>00:34:51</td><td>$1.09</td></tr><tr><td>3/31/20</td><td>Austin, TX</td><td>Level 3</td><td><img src="https://i.imgur.com/3uejiGk.png" style="width:100px;"></td><td>00:21:23</td><td>$2.05</td></tr><tr><td>3/20/20</td><td>Las Vegas, NV</td><td>Level 2</td><td><img src="https://i.imgur.com/5UZjQ9G.png" style="width:100px;"></td><td>00:57:44</td><td>$1.10</td></tr><tr><td>3/18/20</td><td>Pasadena, CA</td><td>Level 2</td><td><img src="https://purpleduck.cz/wp-content/uploads/2018/10/4-out-of-5-stars-png-2.png" alt="INSTALASH – Sada s magnetickou tužkou na oči a magnetickými řasami ..." style="width:100px;"></td><td>02:16:39</td><td>$2.10</td></tr><tr><td>3/15/20</td><td>Seattle, WA</td><td>Level 3</td><td><img src="https://i.imgur.com/3uejiGk.png" style="width:100px;"></td><td>00:35:20</td><td>$3.20</td></tr><tr><td>3/14/20</td><td>New York City, NY</td><td>Level 1</td><td><img src="https://i.imgur.com/5UZjQ9G.png" style="width:100px;"></td><td>01:19:12</td><td>$0.75</td></tr><tr><td>3/10/20</td><td>Boston, MA</td><td>Level 2</td><td><img src="https://purpleduck.cz/wp-content/uploads/2018/10/4-out-of-5-stars-png-2.png" alt="INSTALASH – Sada s magnetickou tužkou na oči a magnetickými řasami ..." style="width:100px;"></td><td>01:43:46</td><td>$1.86</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:coblocks/dynamic-separator {"className":"is-style-line"} -->
+<hr class="wp-block-coblocks-dynamic-separator is-style-line" style="height:50px"/>
+<!-- /wp:coblocks/dynamic-separator -->
+
+<!-- wp:heading -->
+<h2>Account Details</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns {"backgroundColor":"background","textColor":"foreground-dark","align":"wide"} -->
+<div class="wp-block-columns alignwide has-background has-text-color has-background-background-color has-foreground-dark-color"><!-- wp:column {"width":52.71} -->
+<div class="wp-block-column" style="flex-basis:52.71%"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Full name: Jane Doe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Username: janedoe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Password: xxxxxxxx</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Car Model: Tesla Model X</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":47.28} -->
+<div class="wp-block-column" style="flex-basis:47.28%"><!-- wp:image {"align":"left","id":169,"width":385,"height":257,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://electrishare.files.wordpress.com/2020/04/tesla-white-2.jpg?w=678" alt="" class="wp-image-169" width="385" height="257"/></figure></div>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
