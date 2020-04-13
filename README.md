@@ -6,7 +6,7 @@ Our product is a virtual map on our website. It contains the locations of differ
 
 <br />
 <br />
-Many of our team members have extensive coding experience whether it be in website development or JavaScript and Python. We are uniquely qualified to build this product because all of our team members are very dedicated to this project on environmental sustainability through encouraging the use of EVs and making chargers more convenient and accessible to all. Not only have all of our team members taken AP Computer Science A at high school, but we’ve also worked on different independent projects in topics varying from machine learning to robotics and circuitry. We would love to have the opportunity to be able to further develop our idea and make it a reality. 
+Electrishare aims to create an accessible, convenient network of user-provided and public electric vehicle charging stations. We look for the best charging stations near you so that you don’t have to worry about where your next charge is going to be.
 <br />
 <br />
 Together we must battle pollution in order to live a happier and healthier life.
