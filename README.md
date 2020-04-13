@@ -9,8 +9,3 @@ Many of our team members have extensive coding experience whether it be in websi
 <br />
 <br />
   Facing pollution is not something we can do alone. Rather, we need to work together to make our world safe and healthy for all living things. 
-</p>
-<a href="https://github.com/jrcodd/ActualHackTheHelixProject/blob/master/hackTheHelixSubmission.jar">jar</a>
-<br />
-<a href="https://github.com/jrcodd/ActualHackTheHelixProject/blob/master/hackTheHelixSubmission-1600X900.jar">jar - 1600 x 900</a>
-
