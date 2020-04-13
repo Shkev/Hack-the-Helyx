@@ -8,4 +8,4 @@ Our product is a virtual map on our website. It contains the locations of differ
 Many of our team members have extensive coding experience whether it be in website development or JavaScript and Python. We are uniquely qualified to build this product because all of our team members are very dedicated to this project on environmental sustainability through encouraging the use of EVs and making chargers more convenient and accessible to all. Not only have all of our team members taken AP Computer Science A at high school, but we’ve also worked on different independent projects in topics varying from machine learning to robotics and circuitry. We would love to have the opportunity to be able to further develop our idea and make it a reality. 
 <br />
 <br />
-  Facing pollution is not something we can do alone. Rather, we need to work together to make our world safe and healthy for all living things. 
+Together we must battle pollution in order to live a happier and healthier life.
